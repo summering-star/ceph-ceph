@@ -1,1 +1,1 @@
-# ceph-ceph
+# ceph/ceph:v17.2.6
